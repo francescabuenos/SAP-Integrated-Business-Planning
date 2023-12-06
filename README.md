@@ -11,3 +11,18 @@ SAP Work Zone - [[Document History | SAP Help Portal](https://help.sap.com/docs/
  Yammer Group for IBP - (20+) Yammer - SAP Integrated Business Planning
 
  IBP Web UI link: https://my307540.scmibp1.ondemand.com/ui#Shell-home
+
+[IBP 200_Session7_JAC_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587714/IBP.200_Session7_JAC_F1.pptx)
+[IBP 200_Session9_JAC_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587713/IBP.200_Session9_JAC_F1.pptx)
+[IBP 200_Session8_JAC_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587710/IBP.200_Session8_JAC_F1.pptx)
+[IBP100_Session1_EDC_F1 (1).pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587704/IBP100_Session1_EDC_F1.1.pptx)
+[IBP100_Session3_EDC.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587703/IBP100_Session3_EDC.pptx)
+[IBP100_Session2_EDC_F1 (1).pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587701/IBP100_Session2_EDC_F1.1.pptx)
+[IBP100_Session4_EDC_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587700/IBP100_Session4_EDC_F1.pptx)
+[IBP100_Session6_EDC.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587699/IBP100_Session6_EDC.pptx)
+[IBP100_Session5_EDC_F1 (1).pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587697/IBP100_Session5_EDC_F1.1.pptx)
+[IBP200_Session10_KPA_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587696/IBP200_Session10_KPA_F1.pptx)
+[IBP200_Session13_KPA_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587694/IBP200_Session13_KPA_F1.pptx)
+[IBP200_Session12_KPA_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587693/IBP200_Session12_KPA_F1.pptx)
+[IBP200_Session11_KPA_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587689/IBP200_Session11_KPA_F1.pptx)
+
