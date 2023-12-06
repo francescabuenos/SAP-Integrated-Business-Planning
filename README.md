@@ -26,3 +26,4 @@ SAP Work Zone - [[Document History | SAP Help Portal](https://help.sap.com/docs/
 [IBP200_Session12_KPA_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587693/IBP200_Session12_KPA_F1.pptx)
 [IBP200_Session11_KPA_F1.pptx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587689/IBP200_Session11_KPA_F1.pptx)
 
+[Connecting for the First Time.docx](https://github.com/francescabuenos/SAP-Integrated-Business-Planning/files/13587792/Connecting.for.the.First.Time.docx)
